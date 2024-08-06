@@ -1,0 +1,10 @@
+.small-text-select {
+  font-size: 9px; /* Adjust the font size as needed */
+  padding: 5px;
+  border-radius: 500px;
+  background: grey;
+  color: white;
+}
+.small-text-select option {
+  font-size: 12px; /* Adjust the font size as needed */
+}
